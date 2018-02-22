@@ -1,0 +1,16 @@
+{
+  "name": "sawtooth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cbor": "^4.0.0",
+    "request": "^2.83.0",
+    "sawtooth-sdk": "^1.0.1"
+  }
+}
